@@ -1,0 +1,22 @@
+{
+  "[python]": {
+    "editor.suggest.enabled": false,
+    "editor.quickSuggestions": false,
+    "editor.parameterHints.enabled": false,
+    "editor.autoClosingBrackets": "never",
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    "editor.acceptSuggestionOnEnter": false
+  },
+  "editor.suggest.enabled": false,
+  "editor.quickSuggestions": {
+    "other": false,
+    "comments": false,
+    "strings": false
+  },
+  "python.linting.enabled": false,
+  "python.linting.pylintEnabled": false,
+  "python.analysis.autoImportCompletions": false,
+  "[python]": {
+    "editor.suggest.enabled": false
+  }
+}
